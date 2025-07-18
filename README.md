@@ -1,4 +1,5 @@
 📝 Descrição para o repositório:
+
 Uma página moderna dedicada à minha série de sitcom favorita, desenvolvida como parte de um desafio do bootcamp da DIO em parceria com o Santander. A estilização foi inspirada na interface do meu serviço de streaming favorito, com foco em uma experiência visual imersiva e familiar.
 
 🚀 Tecnologias utilizadas:
